@@ -11,6 +11,7 @@ La aplicación permite a los usuarios ingresar nombres de amigos en una lista vi
 
 
 Funcionalidades
+
 Agregar nombres: los usuarios escriben un nombre y lo agregan a la lista con el botón -AÑADIR-
 Validación de entrada: si el campo de texto está vacío y presiona -AÑADIR-, salta una alerta indicando "Por favor, inserte un nombre."
 Visualización de la lista: los nombres se muestran automáticamente en una lista debajo del campo de entrada.
